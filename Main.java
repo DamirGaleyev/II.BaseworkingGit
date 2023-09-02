@@ -6,6 +6,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome home my friend !");
+        System.out.println("Hello, thanks for trying");
 
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
